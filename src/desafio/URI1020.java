@@ -21,7 +21,7 @@ public class URI1020{
 		}
 		
 		dia = entrada;
-		System.out.printf("%d ano(s)\n%d mes(es)\n%d dia(s)\n");
+		System.out.printf("%d ano(s)\n%d mes(es)\n%d dia(s)\n",ano,mes,dia);
 	
 	}
 }
