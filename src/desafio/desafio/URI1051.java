@@ -1,3 +1,4 @@
+package desafio;
 import java.util.Scanner;
 
 public class URI1051 {
